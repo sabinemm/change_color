@@ -1,1 +1,1 @@
-# Click a button to change bacground color
+# Click a button to change background color

@@ -2,14 +2,6 @@ body {
     position: relative;
 }
 
-body #red {
-    background: red;
-}
-
-body #blue {
-    background: royalblue;
-}
-
 .container {
     position: absolute;
     top: 50%;
